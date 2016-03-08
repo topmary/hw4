@@ -8,7 +8,7 @@ body {
     background-color: #FCDB00;
 }
 body .header{
-    width: 100%;/*todo 100%*/
+    width: 100%;
     margin: 0 auto;
     height: 150px;
     position: fixed;
