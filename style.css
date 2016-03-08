@@ -1,0 +1,264 @@
+body {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 23px;
+    margin:0;
+    padding:0;
+    width:100%;
+    height: 100%;
+    background-color: #FCDB00;
+}
+body .header{
+    width: 100%;/*todo 100%*/
+    margin: 0 auto;
+    height: 150px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #FCDB00;
+    z-index: 10;
+}
+body .header .logo{
+    position:absolute;
+    left: 241px;
+    top: 63px;
+}
+body .header .logo img{
+    height:47px;
+    width: 177px;
+}
+body .header .list{
+    position: relative;
+    float:right;
+    top: 69px;
+    right:155px;
+}
+body .header .list ul{
+    margin:0;
+    padding:0;
+}
+body .header .list ul li{
+    list-style: none;
+    display: inline;
+    margin:32px;
+}
+body .header .list ul li a{
+    text-decoration: none;
+    color:black;
+    font-weight: bold;
+}
+body .header .list ul li a:hover {
+    color: white;
+}
+
+
+.main_content{
+    width: 970px;
+    height: 741px;
+    margin: 0 auto;
+}
+.main_content .main_text{
+    position:relative;
+    width: 430px;
+    display: inline-block;
+    left: 49px;
+    top: 195px;
+}
+.main_content .main_text .main_f {
+    font-size:32px;
+    font-weight: bold;
+    margin-bottom: -5px;
+}
+.main_content .main_text .main_s{
+    font-size: 20px;
+    margin-bottom:10px;
+}
+.main_content .main_text .main_t{
+    font-size:16px;
+}
+
+.main_content .system1{
+    display: inline-block;
+    position:relative;
+    right: 389px;
+    top: 276px;
+}
+.main_content .system2{
+    display: inline-block;
+    position:relative;
+    right:357px;
+    top: 279px;
+}
+.main_content .system3{
+    display: inline-block;
+    position:relative;
+    right: 325px;
+    top: 278px;
+}
+.main_content .gadget {
+    display: inline-block;
+    position: absolute;
+    right: 224px;
+    top: 164px;
+    margin-bottom: 100px;
+}
+.main_content .logo_small{
+    display: inline-block;
+    position: relative;
+    float:right;
+    top: 354px;
+    right: 90px;
+}
+
+.main_content .logo_small img{
+    width:200px ;
+}
+
+
+
+.second_chapter{
+
+    width: 100%;
+    height: 800px;
+    margin: 0 auto;
+    background-color: white;
+}
+.container1{
+    display: inline-block;
+    position:relative;
+    font-weight: bold;
+    font-size:31px;
+    left: 595px;
+    top: 65px;
+}
+.container2{
+    display: inline-block;
+    position:relative;
+    font-size:20px;
+    text-align: center;
+    top: 130px;
+    left: 121px;
+}
+hr{
+   position: absolute;
+    width:937px;
+    left: 232px;
+    top: 975px;
+}
+
+.fully{
+    display: inline-block;
+    position: absolute;
+    left: 244px;
+    top: 1037px;
+}
+
+.layer{
+    display: inline-block;
+    position: relative;
+    left: 430px;
+    top: 144px;
+}
+
+.font{
+    display: inline-block;
+    position: relative;
+    left: 560px;
+    top: 148px;
+}
+
+.htm{
+    display: inline-block;
+    position: relative;
+    top: 345px;
+    right: 686px;
+}
+
+.email{
+    display: inline-block;
+    position: relative;
+    left: 557px;
+    top: 264px;
+}
+
+.free{
+    display: inline-block;
+    position: relative;
+    left: 454px;
+    top: 263px;
+}
+
+.fully_text1{
+    position: relative;
+    top: 239px;
+    right: 644px;
+}
+.fully_text2{
+    display:inline-block;
+    position:relative;
+    font-size: 16px;
+    right: 814px;
+    top: 330px;
+}
+.font_text1{
+    position: relative;
+    top: 124px;
+    left: 583px;
+}
+.font_text2{
+    display:inline-block;
+    position:relative;
+    font-size: 16px;
+    top: 214px;
+    left: 398px;
+}
+
+.layer_text1{
+    position: relative;
+    top: 123px;
+    left: 447px;
+}
+.layer_text2{
+    display:inline-block;
+    position:relative;
+    font-size: 16px;
+    top: 214px;
+    left: 238px;
+}
+.htm_text1{
+    position: relative;
+    top: 321px;
+    right: 669px;
+}
+.htm_text2{
+    display:inline-block;
+    position:relative;
+    font-size: 16px;
+    top: 413px;
+    right: 827px;
+}
+
+.email_text1{
+    position: relative;
+    top: 239px;
+    left: 575px;
+}
+
+.email_text2{
+    display:inline-block;
+    position:relative;
+    font-size: 16px;
+    top: 330px;
+    left: 417px;
+}
+.free_text1{
+    position: relative;
+    top: 239px;
+    left: 476px;
+}
+.free_text2{
+    display:inline-block;
+    position:relative;
+    font-size: 16px;
+    top: 330px;
+    left: 297px;
+}
