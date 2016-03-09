@@ -265,7 +265,7 @@ body .header .list ul li a:hover {
 
 .footer{
     width: 100%;
-    height: 400px;
+    height: 766px;
     background-color: black;
 }
 .footer .container3{
@@ -285,4 +285,123 @@ body .header .list ul li a:hover {
     font-size: 20px;
     top: 116px;
     left: 23px;
+}
+.footer .forma {
+    display: inline-block;
+    position: relative;
+    top: 110px;
+    left: 333px;
+}
+.footer .forma input{
+    height: 45px;
+    width: 555px;
+    border-radius: 5px;
+    padding-left: 21px;
+    font-size: 15px;
+}
+.footer .send {
+    display: inline-block;
+    position: relative;
+    top: 110px;
+    left: 348px;
+
+}
+.footer .send button{
+    width: 125px;
+    height: 50px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 14px;
+    background-color:#FCDB00;
+}
+.footer .facebook {
+    display: inline-block;
+    position: relative;
+    top: 246px;
+    right: 164px;
+}
+
+.footer .twitter{
+    display: inline-block;
+    position: relative;
+    top: 246px;
+    right: 137px;
+}
+.footer .google{
+    display: inline-block;
+    position: relative;
+    top: 246px;
+    right: 113px;
+}
+.footer .pin{
+    display: inline-block;
+    position: relative;
+    top: 246px;
+    right: 87px;
+}
+
+.footer hr{
+    position: relative;
+    width:937px;
+    left: 26px;
+    top: 283px;
+
+}
+.footer .contacts{
+    display: inline-block;
+    position: relative;
+    color: white;
+    top: 315px;
+    left: 242px;
+    font-size: 16px;
+}
+.footer .telephone{
+    display: inline-block;
+    position: relative;
+    color: white;
+    font-size: 16px;
+    top: 342px;
+    left: 47px;
+}
+
+.footer .list1{
+    position: relative;
+    display: inline-block;
+    top: 294px;
+    left: 240px;
+}
+.footer .list1 ul , .footer .list2 ul , .footer .list3 ul , .footer .list4 ul{
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+.footer .list1 ul li , .footer .list2 ul li , .footer .list3 ul li , .footer .list4 ul li{
+    list-style: none;
+}
+.footer .list1 ul li a , .footer .list2 ul li a , .footer .list3 ul li a , .footer .list4 ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+.footer .list2{
+    position: relative;
+    display: inline-block;
+    top: 315px;
+    left: 330px;
+}
+
+.footer .list3{
+    position: relative;
+    display: inline-block;
+    top: 294px;
+    left: 433px;
+
+}
+
+.footer .list4{
+    position: relative;
+    display: inline-block;
+    top: 294px;
+    left: 508px;
+
 }
