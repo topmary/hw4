@@ -121,6 +121,9 @@ body .header .list ul li a:hover {
     left: 188px;}
 
 
+.tocentre {
+    margin: 0 auto;
+}
 .second_chapter{
 
     width: 100%;
@@ -156,6 +159,7 @@ body .header .list ul li a:hover {
 }
 .wrapper{
     height: 600px;
+
 }
 
 .fullyylluf{
