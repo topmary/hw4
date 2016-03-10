@@ -106,14 +106,19 @@ body .header .list ul li a:hover {
     display: inline-block;
     position: relative;
     float:right;
-    top: 354px;
-    right: 90px;
+    top: 355px;
+    right: 277px;
 }
 
 .main_content .logo_small img{
     width:200px ;
 }
-
+.duos {
+    position: relative;
+    float: right;
+    width: 300px;
+    height: 500px;
+    left: 188px;}
 
 
 .second_chapter{
@@ -145,123 +150,198 @@ body .header .list ul li a:hover {
     left: 232px;
     top: 975px;
 }
-.second_chapter .fully{
+.cont{
+    position: relative;
+    top: 10px;
+}
+.wrapper{
+    height: 600px;
+}
+
+.fullyylluf{
+    position: relative;
+    top: 80px;
+}
+
+.fullyylluf .fully1{
+    position:relative;
     display: inline-block;
+    left: 243px;
+    top: 74px;
+}
+
+.fullyylluf .fully1 .fully{
+    display: inline-block;
+    position: relative;
+
+}
+.fully_text1{
     position: absolute;
-    left: 244px;
-    top: 1037px;
+    display: inline-block;
+    font-size: 21px;
+    top: 33px;
+    left: 66px;
 }
 
-.second_chapter .layer{
+.fully_text2{
     display: inline-block;
     position: relative;
-    left: 430px;
-    top: 144px;
-}
-
-.second_chapter .font{
-    display: inline-block;
-    position: relative;
-    left: 560px;
-    top: 148px;
-}
-
-.second_chapter .htm{
-    display: inline-block;
-    position: relative;
-    top: 345px;
-    right: 686px;
-}
-
-.second_chapter .email{
-    display: inline-block;
-    position: relative;
-    left: 557px;
-    top: 264px;
-}
-
-.second_chapter .free{
-    display: inline-block;
-    position: relative;
-    left: 454px;
-    top: 263px;
-}
-
-.second_chapter .fully_text1{
-    position: relative;
-    top: 239px;
-    right: 644px;
-}
-.second_chapter .fully_text2{
-    display:inline-block;
-    position:relative;
     font-size: 16px;
-    right: 814px;
-    top: 330px;
-}
-.second_chapter .font_text1{
-    position: relative;
-    top: 124px;
-    left: 583px;
-}
-.second_chapter .font_text2{
-    display:inline-block;
-    position:relative;
-    font-size: 16px;
-    top: 214px;
-    left: 398px;
+    top: 70px;
+    left: 26px;
 }
 
-.second_chapter .layer_text1{
-    position: relative;
-    top: 123px;
-    left: 447px;
-}
-.second_chapter .layer_text2{
-    display:inline-block;
+.fullyylluf .font1{
+    display: inline-block;
     position:relative;
+    top: 136px;
+    left: 256px;
+    width: 339px;
+}
+
+.fullyylluf .font1 .font{
+    display: inline-block;
+    position: relative;
+    bottom: 58px;
+    left: 51px;
+}
+
+.font_text1{
+    position: absolute;
+    display: inline-block;
+    font-size: 21px;
+    bottom: 83px;
+    left: 124px;
+}
+
+.font_text2{
+    display: inline-block;
+    position: relative;
     font-size: 16px;
-    top: 214px;
+    top: 8px;
+    left: 73px;
+}
+
+.fullyylluf .layer1{
+    display: inline-block;
+    position:relative;
+    top: 74px;
+    left: 278px;
+}
+.fullyylluf .layer1 .layer{
+    display: inline-block;
+    position: relative;
+
+}
+.layer_text1{
+    position: absolute;
+    display: inline-block;
+    font-size: 21px;
+    top: 34px;
+    left: 68px;
+}
+.layer_text2{
+    display: inline-block;
+    position: relative;
+    font-size: 16px;
+    top: 70px;
+    left: 15px;
+}
+
+.htmmth .htm1{
+    display: inline-block;
+    position:relative;
+    top: 270px;
     left: 238px;
-}
-.second_chapter .htm_text1{
-    position: relative;
-    top: 321px;
-    right: 669px;
-}
-.second_chapter .htm_text2{
-    display:inline-block;
-    position:relative;
-    font-size: 16px;
-    top: 413px;
-    right: 827px;
+    width: 280px;
+    height: 100px;
 }
 
-.second_chapter .email_text1{
+.htmmth .htm1 .htm{
+    display: inline-block;
     position: relative;
-    top: 239px;
-    left: 575px;
+    top: 4px;
+    right: 5px;
 }
 
-.second_chapter .email_text2{
-    display:inline-block;
-    position:relative;
-    font-size: 16px;
-    top: 330px;
-    left: 417px;
+.htm_text1{
+    position: absolute;
+    display: inline-block;
+    font-size: 21px;
+    top: 33px;
+    left: 71px;
 }
-.second_chapter .free_text1{
+.htm_text2{
+    display: inline-block;
     position: relative;
-    top: 239px;
-    left: 476px;
-}
-.second_chapter .free_text2{
-    display:inline-block;
-    position:relative;
     font-size: 16px;
-    top: 330px;
-    left: 297px;
+    top: 71px;
+    left: 12px;
 }
+
+.htmmth .email1{
+    display: inline-block;
+    position:relative;
+    top: 275px;
+    left: 281px;
+    width: 280px;
+    height: 100px;
+}
+
+.htmmth .email1 .email{
+    display: inline-block;
+    position: relative;
+    bottom: 1px;
+    right: 11px;
+}
+
+.email_text1{
+    position: absolute;
+    display: inline-block;
+    font-size: 21px;
+    top: 29px;
+    left: 63px;
+}
+.email_text2{
+    display: inline-block;
+    position: relative;
+    font-size: 16px;
+    top: 65px;
+    left: 5px;
+}
+
+.htmmth .free1{
+    display: inline-block;
+    position:relative;
+    top: 277px;
+    left: 318px;
+    width: 270px;
+    height: 100px;
+}
+
+.htmmth .free1 .free{
+    display: inline-block;
+    position: relative;
+    bottom: 4px;
+    right: 10px;
+}
+
+.free_text1{
+    position: absolute;
+    display: inline-block;
+    font-size: 21px;
+    top: 27px;
+    right: 58px;
+}
+.free_text2{
+    display: inline-block;
+    position: relative;
+    font-size: 16px;
+    top: 63px;
+    left: 12px;
+}
+
+
 
 .footer{
     width: 100%;
